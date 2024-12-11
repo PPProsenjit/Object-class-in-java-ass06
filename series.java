@@ -10,7 +10,7 @@ class series{
             sum = sum + i;
             i++;
         }
-       // conditon of series 1 + 2 + 3 + ........+ n
+       // condition of series 1 + 2 + 3 + ........+ n
        // sum = n * (n+1) /2;
         
         
