@@ -1,7 +1,7 @@
 class factors{
    
     public void factorsNumber(int n){
-        System.out.println(" Fators of " + n + " are: \n");
+        System.out.println(" Factors of " + n + " are: \n");
          int i = 1;
         while(i <= n){
             if(n % i == 0){

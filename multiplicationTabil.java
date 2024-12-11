@@ -1,6 +1,6 @@
 class number{
    
-    public void multiplicationTabil(int n){
+    public void multiplicationTable(int n){
         
          
          for(int i = 1 ; i <= 10 ; i++){
@@ -21,7 +21,7 @@ class number{
          int n = 8;
          
          number obj = new number();
-         System.out.println("multiplication Tabil are : \n ");
+         System.out.println("multiplication Table are : \n ");
           obj.multiplicationTabil(n);
          
         
